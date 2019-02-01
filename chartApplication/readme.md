@@ -1,4 +1,5 @@
 Name of the project: chartApplication
+.....
 Project Overview- Performing barchart using HighCharts and RESTApi
 
 List of files included:
